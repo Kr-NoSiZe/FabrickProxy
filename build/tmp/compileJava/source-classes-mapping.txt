@@ -1,0 +1,51 @@
+com/fabrick/persistence/model/OperationType.java
+ com.fabrick.persistence.model.OperationType
+com/fabrick/persistence/model/Fees.java
+ com.fabrick.persistence.model.Fees
+com/fabrick/persistence/model/Address.java
+ com.fabrick.persistence.model.Address
+com/fabrick/persistence/model/NaturalPersonBeneficiary.java
+ com.fabrick.persistence.model.NaturalPersonBeneficiary
+com/fabrick/persistence/model/MoneyTransfer.java
+ com.fabrick.persistence.model.MoneyTransfer
+com/fabrick/persistence/model/LegalPersonBeneficiary.java
+ com.fabrick.persistence.model.LegalPersonBeneficiary
+com/fabrick/exception/ErrorHolder.java
+ com.fabrick.exception.ErrorHolder
+com/fabrick/persistence/model/FabrickResponse.java
+ com.fabrick.persistence.model.FabrickResponse
+com/fabrick/persistence/model/Transaction.java
+ com.fabrick.persistence.model.Transaction
+com/fabrick/persistence/model/Type.java
+ com.fabrick.persistence.model.Type
+com/fabrick/persistence/model/Account.java
+ com.fabrick.persistence.model.Account
+com/fabrick/persistence/model/ElementList.java
+ com.fabrick.persistence.model.ElementList
+com/fabrick/persistence/model/User.java
+ com.fabrick.persistence.model.User
+com/fabrick/persistence/model/MoneyTransferRequest.java
+ com.fabrick.persistence.model.MoneyTransferRequest
+com/fabrick/persistence/model/Balance.java
+ com.fabrick.persistence.model.Balance
+com/fabrick/exception/FabrickException.java
+ com.fabrick.exception.FabrickException
+com/fabrick/persistence/model/MoneyTransferResponse.java
+ com.fabrick.persistence.model.MoneyTransferResponse
+com/fabrick/persistence/model/TaxRelief.java
+ com.fabrick.persistence.model.TaxRelief
+com/fabrick/Application.java
+ com.fabrick.Application
+com/fabrick/persistence/model/Amount.java
+ com.fabrick.persistence.model.Amount
+com/fabrick/persistence/repository/AccountRepository.java
+ com.fabrick.persistence.repository.AccountRepository
+com/fabrick/persistence/repository/TransactionRepository.java
+ com.fabrick.persistence.repository.TransactionRepository
+com/fabrick/controller/RestResponseExceptionHandler.java
+ com.fabrick.controller.RestResponseExceptionHandler
+com/fabrick/controller/Controller.java
+ com.fabrick.controller.Controller
+ com.fabrick.controller.Controller$1
+ com.fabrick.controller.Controller$2
+ com.fabrick.controller.Controller$3
